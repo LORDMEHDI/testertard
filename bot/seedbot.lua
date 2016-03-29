@@ -226,19 +226,21 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {153678982,112524566,0,tonumber(our_id)},--Sudo users
+    sudo_users = {139946685,112524566,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Eroorr v1 
-An advance Administration bot based on yagop/telegram-bot 
-robot anti spam erooor
-
+    about_text = [[404 error v.2
+______________________________
 Sudo:
-@im_repport
-
+@Mahdi17177
+@Ferisystem
+__Made in tardteam__
+______________________________
 Special thanks to:
- MEHDI DOLATABADI(LORD)
+last_lort
+faruji
 
+channel taem (tardsoft):@TardTramCh
 
 ]],
     help_text_realm = [[
@@ -409,7 +411,7 @@ Will return group logs
 !banlist
 Will return group ban list
 
-» U can use both "/" and "!" 
+» U can use both "404"
 
 » Only mods, owner and admin can add bots in group
 
