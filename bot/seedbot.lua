@@ -225,6 +225,9 @@ function create_config( )
     "all",
     "leave_ban",
     "info",
+    "addplugin",
+    "plugins",
+    "filter",
     "admin"
     },
     sudo_users = {139946685,112524566,0,tonumber(our_id)},--Sudo users
@@ -241,7 +244,7 @@ Special thanks to:
 last_lort
 faruji
 
-channel taem (tardsoft):@TardTramCh
+channel taem (tardsoft):@TardTeamCh
 
 ]],
     help_text_realm = [[
